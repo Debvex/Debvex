@@ -12,9 +12,8 @@ but for real-world impact and ethical scalability.**
 
 🧠 Core Expertise 
 -
-Machine Learning • Deep Learning • NLP  
-GenAI • 
-AI Engineering • MLOps 
+Machine Learning • Deep Learning • NLP • MLOps  
+GenAI • AI Engineering 
 
 🌐 Socials:
 -
