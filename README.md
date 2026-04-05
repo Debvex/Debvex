@@ -1,5 +1,5 @@
 <div align="center">
-### 👋 Hi, I’m Debmalya 
+###    👋 Hi, I’m Debmalya 
   
 A part time undergraduate B.Tech IT student and a full time lazyass. You are welcome to connect and collaborate...
 
