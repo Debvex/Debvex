@@ -1,10 +1,9 @@
-
 <div align="center">
 <br>
   
 ### 👋 Hi, I’m 
 <div style="flex; align-items: center; justify-content: center; gap: 10px;">
-<img width="150" height="150" alt="Arthur Morgan_____" src="https://github.com/user-attachments/assets/9e92d6db-8688-4704-b12d-ef3cacd8002f" />
+<img width="150" height="150" alt="Arthur Morgan GIF" src="https://github.com/user-attachments/assets/6f7cfc08-16dd-43c5-87c9-ce8dc2b26077" />
 <img width="549" height="148" alt="Debmalya" src="https://github.com/user-attachments/assets/5eab19ed-7e04-4c1d-8b71-2b56e3741740" />
 </div>
 <p align="center">
