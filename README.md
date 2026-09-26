@@ -1,9 +1,10 @@
+
 <div align="center">
 <br>
   
 ### 👋 Hi, I’m 
 <div style="flex; align-items: center; justify-content: center; gap: 10px;">
-<img width="150" height="150" alt="6fb5fce9731e6e748a16c836b3ad9444" src="https://github.com/user-attachments/assets/b01b3ea7-2d64-48ca-9c98-39cc8b5311e8" />
+<img width="150" height="150" alt="Arthur Morgan_____" src="https://github.com/user-attachments/assets/9e92d6db-8688-4704-b12d-ef3cacd8002f" />
 <img width="549" height="148" alt="Debmalya" src="https://github.com/user-attachments/assets/5eab19ed-7e04-4c1d-8b71-2b56e3741740" />
 </div>
 <p align="center">
