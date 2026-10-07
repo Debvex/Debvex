@@ -10,7 +10,7 @@
 ### About Me: 
 
 - 3rd Year B.Tech IT undergraduate in KGEC
-- Has foundational knowledge in AI Engineering, Full Stack Development, DevOps (ongoing).
+- Has complete working knowledge in AI Engineering, Full Stack Development, DevOps (ongoing).
 - Treat AI as a pair programmer to build clean bug free programs and ship them quickly.
 - has been a part of IEEE SMC SBC as a student member from Oct 2025 - Sep 2026 and coordinated technical events, managed event logistics, assisted in organizing a research internship with 300+ attendees during my term.
 
