@@ -4,15 +4,15 @@
 ### 👋 Hi, I’m 
 <img width="400" height="100" alt="Debmalya" src="https://github.com/user-attachments/assets/5eab19ed-7e04-4c1d-8b71-2b56e3741740" />
 
-### **Casual Developer & Hardcore Gamer**   
+### **Casual Developer & Gamer**   
 #### Connect: <u>[Gmail](mailto:settdebmalya273@gmail.com) | [Discord](https://discordapp.com/users/1336557971647234048) | [Linkedin](https://www.linkedin.com/in/debmalyasett/)</u> &nbsp;  Fellow gamer? Connect here → [<img width="50" height="50" alt="Steam profile" src="https://github.com/user-attachments/assets/15d62835-1df6-4ba0-934b-6d27d0f204b0" />](https://steamcommunity.com/id/debvex/)
 
 ### About Me: 
 
 - 3rd Year B.Tech IT undergraduate in KGEC
-- Possess comprehensive, practical expertise in AI Engineering, Full-Stack Development, and DevOps(ongoing).
+- Possess comprehensive, practical experience in AI Engineering, Full-Stack Development, and DevOps(ongoing).
 - Leverage AI pair-programming tools to implement logic, accelerate development cycles, optimize code quality, streamline debugging.
-- has been a part of IEEE SMC SBC as a student member from Oct 2025 - Sep 2026 and coordinated technical events, managed event logistics, assisted in organizing a research internship with 300+ attendees during my term.
+- has been a part of professional societies like IEEE SMC SBC as a student member for 1 year.
 
 
 ### Tech Stack: 
