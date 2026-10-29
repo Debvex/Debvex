@@ -12,7 +12,7 @@
 - 3rd Year B.Tech IT undergraduate in KGEC
 - Possess comprehensive, practical experience in AI Engineering, Full-Stack Development, and DevOps(ongoing).
 - Leverage AI pair-programming tools to implement logic, accelerate development cycles, optimize code quality, streamline debugging.
-- has been a part of professional societies like IEEE SMC SBC as a student member for 1 year.
+- ex-IEEE SMC SBC student member.
 
 
 ### Tech Stack: 
